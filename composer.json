@@ -1,0 +1,19 @@
+{
+    "name": "wupz/database",
+    "description": "database",
+    "authors": [
+        {
+            "name": "EvanWu",
+            "email": "cnwupz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4": {
+            "wuweiit\\": "src/wuweiit"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
